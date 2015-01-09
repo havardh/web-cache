@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "web cache",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "Open a cached version of the current page",
+    "description": "The description of the application"
+  }
+}
