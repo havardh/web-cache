@@ -1,6 +1,6 @@
 {
     "name": "Web Cache",
-    "version": "0.0.3",
+    "version": "0.0.5",
     "manifest_version": 2,
     "description": "Open a cached version of the current tab",
     "icons": {
